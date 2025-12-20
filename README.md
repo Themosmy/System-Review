@@ -26,3 +26,5 @@ POST /api/reviews/analyze
 
 ## 📚 Documentação
 Veja a Wiki para detalhes técnicos.
+
+- arquitetura
